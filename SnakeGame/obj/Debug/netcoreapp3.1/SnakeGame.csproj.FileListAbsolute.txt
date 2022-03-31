@@ -1,0 +1,14 @@
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.exe
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.deps.json
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.runtimeconfig.json
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.runtimeconfig.dev.json
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.dll
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakeGame.pdb
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.AssemblyInfo.cs
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.dll
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.pdb
+C:\Users\chiqo\source\repos\Projects\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakeGame.genruntimeconfig.cache
